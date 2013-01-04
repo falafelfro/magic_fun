@@ -1,1 +1,1 @@
-This is the first magic that I have ever created!
+This is the first magic that I have ever created! And this is the second sentence I added after creating the file!
